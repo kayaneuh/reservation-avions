@@ -3,11 +3,11 @@
 one:
   duration: 1
   departure_date: 2017-08-07
-  departure_airport: 2017-08-07
-  arrival_aiport: MyString
+  departure_airport: MyString
+  arrival_airport: MyString
 
 two:
   duration: 1
   departure_date: 2017-08-07
-  departure_airport: 2017-08-07
-  arrival_aiport: MyString
+  departure_airport: MyString
+  arrival_airport: MyString
